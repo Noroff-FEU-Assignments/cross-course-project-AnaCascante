@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>I do not know what JS stays for</title>
+  </head>
+  <body>
+    <h1>I guess I will learn it soon</h1>
+    <p>never give up!</p>
+  </body>
+</html>
